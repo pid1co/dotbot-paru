@@ -12,7 +12,7 @@ This plugin is a port of [dotbot-yay](https://github.com/OxSon/dotbot-yay), whic
 It's easiest to track this plugin in your dotfiles repo:
 
 ```bash
-git submodule add https://github.com/michaelray27/dotbot-paru.git
+git submodule add https://github.com/pid1co/dotbot-paru.git
 ```
 
 The original author also recommends having your paru list in a separate file
